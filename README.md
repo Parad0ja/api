@@ -5,12 +5,13 @@ LENGUAJE PYTHON
 FRAMEWORK DJANGO
 
 1. instalar python
-2. crear un entorno virutal "python -m venv NOMBRE_ENTORNO"
-3. activar el entorno. NOMBRE_ENTORNO./Scripts/activate
-4. pip install requerimientos.txt
-5. python manage.py makemigrations
-6. python manage.py migrate
-7. python manage.py createsuperuser
-8. ingresar al proyecto PYTHON-APY
-9. python manage.py runserver
-10. ingresar a la url http://127.0.0.1:8000/gatos/
+2. DESDE CMD
+3. crear un entorno virutal "python -m venv NOMBRE_ENTORNO"
+4. activar el entorno. NOMBRE_ENTORNO./Scripts/activate
+5. pip install requerimientos.txt
+6. python manage.py makemigrations
+7. python manage.py migrate
+8. python manage.py createsuperuser
+9. ingresar al proyecto PYTHON-APY
+10. python manage.py runserver
+11. ingresar a la url http://127.0.0.1:8000/gatos/
